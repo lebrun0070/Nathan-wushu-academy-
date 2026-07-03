@@ -1,0 +1,11 @@
+id,role,type,description,size/ratio,style line ref,source
+bg_dojo,main dojo scene backdrop,background,wushu training hall interior with wooden floor red pillars lanterns weapon rack,16:9,formula-v1,generate
+bg_arena,tournament scene backdrop,background,indoor wushu tournament arena with red carpet stage banners crowd,16:9,formula-v1,generate
+bg_title,title screen backdrop,background,wushu academy courtyard exterior at golden dusk,16:9,formula-v1,generate
+card_cover,marketplace thumbnail (deploy metadata),cover,cover art with title lettering master and students,16:9,formula-v1,generate
+portrait_rival,dialogue portrait of rival Master Shen,portrait,stern rival wushu grandmaster bust in black-grey silks,1:1,formula-v1,generate
+icon_crest,favicon + academy crest (deploy metadata),ui,golden fist and crimson sash circular crest,1:1,formula-v1,generate
+portrait_nathan,dialogue portrait of Sifu Nathan,portrait,provided hosted photo of Nathan pixelated in-engine to match style,1:1,n/a,reference_media[0]
+spr_students,roster/dojo student figures 6 palette variants x sash colors,sprite,procedural pixel figures drawn in code in formula palette,20x28 px grid,formula-v1,procedural
+spr_dummy,training dummy in dojo scene,sprite,procedural wooden wing-chun dummy drawn in code,24x40 px grid,formula-v1,procedural
+sfx_all,metronome tick / hit / miss / chime / gong cues,audio,procedural WebAudio oscillator synth cues,-,n/a,procedural
