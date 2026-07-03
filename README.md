@@ -35,3 +35,7 @@ Art: backgrounds, the rival portrait, cover and crest were generated in one
 locked pixel-art style; Nathan's dialogue portrait uses the provided photo,
 pixelated in-engine. Images load from their hosted URLs with procedural
 fallbacks (this build environment could not bundle them locally).
+
+## Deploy
+
+Deployed via the Higgsfield game engine. To update in place, re-zip (`zip -r wushu-academy.zip index.html game.js strings.js logic.js design/`), upload, and redeploy passing `game_id: ff63b0f1-2c20-4ef7-a005-55327e3d67ce` so the URL is preserved.
